@@ -69,5 +69,3 @@ Once you've added employee details, you can export the payroll report by running
 
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
-This markdown structure should work perfectly for your **README.md** file. You can adjust the "Installation" steps and "License" section as per your preferences. Let me know if you need any more changes!
