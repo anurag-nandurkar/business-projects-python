@@ -1,0 +1,7 @@
+Payroll Report:
+---------------
+Employee: a, Hours Worked: 4.0, Salary: $176.00
+Employee: b, Hours Worked: 66.0, Salary: $316.00
+Employee: cc, Hours Worked: 8.0, Salary: $56.00
+Employee: dd, Hours Worked: 44.0, Salary: $3036.00
+Employee: hh, Hours Worked: 44.0, Salary: $2530.00
